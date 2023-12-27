@@ -1,0 +1,1 @@
+从https://huggingface.co/nghuyong下载模型，需要三个文件，分别是pytorch_model.bin, config.json, vocab.txt
